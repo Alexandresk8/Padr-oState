@@ -1,0 +1,19 @@
+4.0.0
+
+        padroescomportamentais
+        PadraoState
+        1.0-SNAPSHOT
+
+
+        21
+        21
+        UTF-8
+
+
+
+
+
+        org.junit.jupiter
+        junit-jupiter
+        5.10.2
+        test
